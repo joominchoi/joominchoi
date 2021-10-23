@@ -1,5 +1,8 @@
 ### Hey, I'm JooMin 👋
 
+## I'm currently learning Next.js
+
+
 <!--
 **jooomin/jooomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
