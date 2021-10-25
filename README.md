@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning: Next.js
 - 📍 Based in: London, UK 🇬🇧
-- Check out my GitHub CV! [GitHub CV](https://github.com/jooomin/CV)
+- 📄 Check out my GitHub CV [GitHub CV](https://github.com/jooomin/CV)
 
 
 <!--
