@@ -1,6 +1,7 @@
 ### Hey, I'm JooMin 👋
 
-## I'm currently learning Next.js
+- 🌱 Currently learning: Next.js
+- 📍 Based in: London, UK 🇬🇧
 
 
 <!--
