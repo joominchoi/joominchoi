@@ -4,7 +4,7 @@
 - 📍 Based in: London, UK 🇬🇧
 - 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JooMin%20Choi-blue?style=social&logo=linked)](https://www.linkedin.com/in/joomin-choi-b42933152/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JooMin%20Choi-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joomin-choi-b42933152/)
 
 
 <!--
