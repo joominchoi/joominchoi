@@ -3,7 +3,7 @@
 - 🌱 Currently learning: Next.js
 - 📍 Based in: London, UK 🇬🇧
 - 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
-- 🖥 Check out my [Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
+- 🖥 Check out my [Portfolio Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JooMin%20Choi-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joomin-choi-b42933152/)
 
