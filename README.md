@@ -1,7 +1,7 @@
 ### Hey, I'm JooMin 👋
 
 - 🌱 Currently working through The Odin Project
-- 📍 Based in: London, UK 🇬🇧
+- 📍 Based in London, UK 🇬🇧
 - 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
 - 🖥 Check out my [Portfolio Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
 
