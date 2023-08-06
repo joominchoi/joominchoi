@@ -1,6 +1,6 @@
 ### Hey, I'm JooMin 👋
 
-- 🌱 Currently learning: The Odin Project
+- 🌱 Currently working through The Odin Project
 - 📍 Based in: London, UK 🇬🇧
 - 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
 - 🖥 Check out my [Portfolio Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
