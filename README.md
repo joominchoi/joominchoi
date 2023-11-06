@@ -1,9 +1,8 @@
 ### Hey, I'm JooMin 👋
 
+- I am an iOS Developer looking to make a move to Frontend Development.
 - 🌱 Currently working through The Odin Project
 - 📍 Based in London, UK 🇬🇧
-- 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
-- 🖥 Check out my [Portfolio Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JooMin%20Choi-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joomin-choi-b42933152/)
 
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄 Check out my [GitHub CV](https://github.com/jooomin/CV)
+- 🖥 Check out my [Portfolio Website](https://portfolio-f9wyhwcfy-jooomin.vercel.app/)
 -->
