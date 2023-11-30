@@ -1,6 +1,6 @@
 ### Hey, I'm JooMin 👋
 
-- I am an iOS Developer looking to make a move to Frontend Development.
+- I am an iOS Developer looking to transition into Frontend Development.
 - 🌱 Currently working through The Odin Project
 - 📍 Based in London, UK 🇬🇧
 
