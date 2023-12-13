@@ -1,7 +1,7 @@
 ### Hey, I'm JooMin 👋
 
 - I am an iOS Developer looking to transition into Frontend Development
-- 🌱 Currently working through The Odin Project
+- 🌱 Currently working through The Odin Project: Full Stack JavaScript Path
 - 📍 Based in London, UK 🇬🇧
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JooMin%20Choi-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joomin-choi-b42933152/)
